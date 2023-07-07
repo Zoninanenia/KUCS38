@@ -14,7 +14,7 @@
 
 
 #รับค่าอุณหภูมิองศาเซลเซียส
-celsius = int(input())
+celsius = float(input())
 
 #แปลงเป็นองศาฟาเรนไฮต์และเคลวิน
 fahrenheit = (celsius * 1.8) + 32
